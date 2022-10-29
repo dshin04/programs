@@ -1,0 +1,44 @@
+C:\Users\Admin\Documents\ProjectFor Computer Science\ProjectFor Computer Science\bin\Debug\net6.0-windows\ProjectFor Computer Science.exe
+C:\Users\Admin\Documents\ProjectFor Computer Science\ProjectFor Computer Science\bin\Debug\net6.0-windows\ProjectFor Computer Science.deps.json
+C:\Users\Admin\Documents\ProjectFor Computer Science\ProjectFor Computer Science\bin\Debug\net6.0-windows\ProjectFor Computer Science.runtimeconfig.json
+C:\Users\Admin\Documents\ProjectFor Computer Science\ProjectFor Computer Science\bin\Debug\net6.0-windows\ProjectFor Computer Science.dll
+C:\Users\Admin\Documents\ProjectFor Computer Science\ProjectFor Computer Science\bin\Debug\net6.0-windows\ProjectFor Computer Science.pdb
+C:\Users\Admin\Documents\ProjectFor Computer Science\ProjectFor Computer Science\obj\Debug\net6.0-windows\ProjectFor Computer Science.vbproj.AssemblyReference.cache
+C:\Users\Admin\Documents\ProjectFor Computer Science\ProjectFor Computer Science\obj\Debug\net6.0-windows\ProjectFor_Computer_Science.Form1.resources
+C:\Users\Admin\Documents\ProjectFor Computer Science\ProjectFor Computer Science\obj\Debug\net6.0-windows\ProjectFor Computer Science.vbproj.GenerateResource.cache
+C:\Users\Admin\Documents\ProjectFor Computer Science\ProjectFor Computer Science\obj\Debug\net6.0-windows\ProjectFor Computer Science.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\ProjectFor Computer Science\ProjectFor Computer Science\obj\Debug\net6.0-windows\ProjectFor Computer Science.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\ProjectFor Computer Science\ProjectFor Computer Science\obj\Debug\net6.0-windows\ProjectFor Computer Science.AssemblyInfo.vb
+C:\Users\Admin\Documents\ProjectFor Computer Science\ProjectFor Computer Science\obj\Debug\net6.0-windows\ProjectFor Computer Science.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\ProjectFor Computer Science\ProjectFor Computer Science\obj\Debug\net6.0-windows\ProjectFor Computer Science.dll
+C:\Users\Admin\Documents\ProjectFor Computer Science\ProjectFor Computer Science\obj\Debug\net6.0-windows\refint\ProjectFor Computer Science.dll
+C:\Users\Admin\Documents\ProjectFor Computer Science\ProjectFor Computer Science\obj\Debug\net6.0-windows\ProjectFor Computer Science.pdb
+C:\Users\Admin\Documents\ProjectFor Computer Science\ProjectFor Computer Science\obj\Debug\net6.0-windows\ProjectFor Computer Science.genruntimeconfig.cache
+C:\Users\Admin\Documents\ProjectFor Computer Science\ProjectFor Computer Science\obj\Debug\net6.0-windows\ref\ProjectFor Computer Science.dll
+C:\Users\Admin\Documents\ProjectFor Computer Science\ProjectFor Computer Science\obj\Debug\net6.0-windows\ProjectFor_Computer_Science.Form2.resources
+C:\Users\dshin\Downloads\ProjectFor Computer Science-20220522T182250Z-001\ProjectFor Computer Science\ProjectFor Computer Science\obj\Debug\net6.0-windows\ProjectFor Computer Science.vbproj.AssemblyReference.cache
+C:\Users\dshin\Downloads\ProjectFor Computer Science-20220522T182250Z-001\ProjectFor Computer Science\ProjectFor Computer Science\obj\Debug\net6.0-windows\ProjectFor_Computer_Science.Form2.resources
+C:\Users\dshin\Downloads\ProjectFor Computer Science-20220522T182250Z-001\ProjectFor Computer Science\ProjectFor Computer Science\obj\Debug\net6.0-windows\ProjectFor_Computer_Science.Form1.resources
+C:\Users\dshin\Downloads\ProjectFor Computer Science-20220522T182250Z-001\ProjectFor Computer Science\ProjectFor Computer Science\obj\Debug\net6.0-windows\ProjectFor Computer Science.vbproj.GenerateResource.cache
+C:\Users\dshin\Downloads\ProjectFor Computer Science-20220522T182250Z-001\ProjectFor Computer Science\ProjectFor Computer Science\obj\Debug\net6.0-windows\ProjectFor Computer Science.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dshin\Downloads\ProjectFor Computer Science-20220522T182250Z-001\ProjectFor Computer Science\ProjectFor Computer Science\obj\Debug\net6.0-windows\ProjectFor Computer Science.AssemblyInfoInputs.cache
+C:\Users\dshin\Downloads\ProjectFor Computer Science-20220522T182250Z-001\ProjectFor Computer Science\ProjectFor Computer Science\obj\Debug\net6.0-windows\ProjectFor Computer Science.AssemblyInfo.vb
+C:\Users\dshin\Downloads\ProjectFor Computer Science-20220522T182250Z-001\ProjectFor Computer Science\ProjectFor Computer Science\obj\Debug\net6.0-windows\ProjectFor Computer Science.vbproj.CoreCompileInputs.cache
+C:\Users\dshin\Downloads\ProjectFor Computer Science-20220522T182250Z-001\ProjectFor Computer Science\ProjectFor Computer Science\bin\Debug\net6.0-windows\ProjectFor Computer Science.exe
+C:\Users\dshin\Downloads\ProjectFor Computer Science-20220522T182250Z-001\ProjectFor Computer Science\ProjectFor Computer Science\bin\Debug\net6.0-windows\ProjectFor Computer Science.deps.json
+C:\Users\dshin\Downloads\ProjectFor Computer Science-20220522T182250Z-001\ProjectFor Computer Science\ProjectFor Computer Science\bin\Debug\net6.0-windows\ProjectFor Computer Science.runtimeconfig.json
+C:\Users\dshin\Downloads\ProjectFor Computer Science-20220522T182250Z-001\ProjectFor Computer Science\ProjectFor Computer Science\bin\Debug\net6.0-windows\ProjectFor Computer Science.dll
+C:\Users\dshin\Downloads\ProjectFor Computer Science-20220522T182250Z-001\ProjectFor Computer Science\ProjectFor Computer Science\bin\Debug\net6.0-windows\ProjectFor Computer Science.pdb
+C:\Users\dshin\Downloads\ProjectFor Computer Science-20220522T182250Z-001\ProjectFor Computer Science\ProjectFor Computer Science\obj\Debug\net6.0-windows\ProjectFor_Computer_Science.CreateAccount.resources
+C:\Users\dshin\Downloads\ProjectFor Computer Science-20220522T182250Z-001\ProjectFor Computer Science\ProjectFor Computer Science\obj\Debug\net6.0-windows\ProjectFor_Computer_Science.Login.resources
+C:\Users\dshin\Downloads\ProjectFor Computer Science-20220522T182250Z-001\ProjectFor Computer Science\ProjectFor Computer Science\obj\Debug\net6.0-windows\ProjectFor Computer Science.dll
+C:\Users\dshin\Downloads\ProjectFor Computer Science-20220522T182250Z-001\ProjectFor Computer Science\ProjectFor Computer Science\obj\Debug\net6.0-windows\refint\ProjectFor Computer Science.dll
+C:\Users\dshin\Downloads\ProjectFor Computer Science-20220522T182250Z-001\ProjectFor Computer Science\ProjectFor Computer Science\obj\Debug\net6.0-windows\ProjectFor Computer Science.pdb
+C:\Users\dshin\Downloads\ProjectFor Computer Science-20220522T182250Z-001\ProjectFor Computer Science\ProjectFor Computer Science\obj\Debug\net6.0-windows\ProjectFor Computer Science.genruntimeconfig.cache
+C:\Users\dshin\Downloads\ProjectFor Computer Science-20220522T182250Z-001\ProjectFor Computer Science\ProjectFor Computer Science\obj\Debug\net6.0-windows\ref\ProjectFor Computer Science.dll
+C:\Users\dshin\Downloads\ProjectFor Computer Science-20220522T182250Z-001\ProjectFor Computer Science\ProjectFor Computer Science\obj\Debug\net6.0-windows\ProjectFor_Computer_Science.MainMenuEmployees.resources
+C:\Users\dshin\Downloads\ProjectFor Computer Science-20220522T182250Z-001\ProjectFor Computer Science\ProjectFor Computer Science\obj\Debug\net6.0-windows\ProjectFor_Computer_Science.ViewProfile.resources
+C:\Users\dshin\Downloads\ProjectFor Computer Science-20220522T182250Z-001\ProjectFor Computer Science\ProjectFor Computer Science\bin\Debug\net6.0-windows\ExcelDataReader.dll
+C:\Users\dshin\Downloads\ProjectFor Computer Science-20220522T182250Z-001\ProjectFor Computer Science\ProjectFor Computer Science\obj\Debug\net6.0-windows\ProjectFor Computer Science.vbproj.CopyComplete
+C:\Users\dshin\Downloads\ProjectFor Computer Science-20220522T182250Z-001\ProjectFor Computer Science\ProjectFor Computer Science\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\dshin\Downloads\ProjectFor Computer Science-20220522T182250Z-001\ProjectFor Computer Science\ProjectFor Computer Science\obj\Debug\net6.0-windows\ProjectFor Computer Science.vbproj.ResolveComReference.cache
